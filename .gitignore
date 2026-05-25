@@ -1,0 +1,15 @@
+# Carpeta de compilación
+bin/
+out/
+
+# Archivos temporales de compilación
+*.class
+sources.txt
+
+# Configuraciones de IDEs (opcional, pero recomendado ignorar locales)
+.vscode/settings.json
+.idea/
+*.iml
+.classpath
+.project
+.settings/
