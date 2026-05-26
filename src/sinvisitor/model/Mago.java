@@ -1,5 +1,7 @@
 package sinvisitor.model;
 
+import sinvisitor.interfaces.Personaje;
+
 public class Mago implements Personaje {
 
     private String nombre;

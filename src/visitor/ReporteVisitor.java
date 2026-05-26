@@ -1,5 +1,7 @@
 package visitor;
 
+import interfaces.PersonajeVisitor;
+
 import model.Guerrero;
 import model.Mago;
 import model.Arquero;

@@ -1,6 +1,7 @@
 package model;
 
-import visitor.PersonajeVisitor;
+import interfaces.Personaje;
+import interfaces.PersonajeVisitor;
 
 //Clases concreta que implementan el visitor
 public class Mago implements Personaje {

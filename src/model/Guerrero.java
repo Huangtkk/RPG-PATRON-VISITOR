@@ -1,6 +1,7 @@
 package model;
 
-import visitor.PersonajeVisitor;
+import interfaces.Personaje;
+import interfaces.PersonajeVisitor;
 
 public class Guerrero implements Personaje {
 

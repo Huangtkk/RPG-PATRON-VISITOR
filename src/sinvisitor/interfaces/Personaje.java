@@ -1,4 +1,4 @@
-package sinvisitor.model;
+package sinvisitor.interfaces;
 
 public interface Personaje {
     String getNombre();

@@ -1,5 +1,6 @@
 package sinvisitor.service;
 
+import sinvisitor.interfaces.Personaje;
 import sinvisitor.model.*;
 
 public class PersonajeService {

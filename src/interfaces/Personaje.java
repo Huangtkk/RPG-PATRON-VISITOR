@@ -1,6 +1,4 @@
-package model;
-
-import visitor.PersonajeVisitor;
+package interfaces;
 
 public interface Personaje {
 

@@ -1,4 +1,4 @@
-package visitor;
+package interfaces;
 
 import model.Guerrero;
 import model.Mago;

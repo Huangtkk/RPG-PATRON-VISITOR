@@ -2,6 +2,7 @@ package sinvisitor;
 
 import java.util.Arrays;
 import java.util.List;
+import sinvisitor.interfaces.Personaje;
 import sinvisitor.model.*;
 import sinvisitor.service.PersonajeService;
 
